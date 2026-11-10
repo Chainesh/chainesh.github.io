@@ -1,0 +1,7 @@
+# Social links shown on the about page, in this order.
+cv_pdf: /assets/pdf/cv.pdf
+email: chainesh2k@gmail.com
+github_username: Chainesh
+linkedin_username: chaineshg
+# scholar_userid: XXXXXXXXXXXX   # TODO: the part after user= in your Google Scholar profile URL
+rss_icon: false

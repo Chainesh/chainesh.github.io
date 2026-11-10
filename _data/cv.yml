@@ -1,0 +1,87 @@
+cv:
+  name: Chainesh Gautam
+  label: Reinforcement Learning Researcher
+  email: chainesh2k@gmail.com
+  location: Bengaluru, India
+  image: ""
+  summary: Research on offline RL, approximate policy iteration and sequence models for decision making.
+
+  social_networks:
+    - network: GitHub
+      username: Chainesh
+    - network: LinkedIn
+      username: chaineshg
+
+  sections:
+    Education:
+      - institution: International Institute of Information Technology Bangalore
+        location: Bengaluru, India
+        url: https://www.iiitb.ac.in/
+        area: Data Science and AI (Stochastic Control Lab)
+        studyType: Master of Science by Research
+        end_date: 2026
+        score: "3.67/4.0"
+
+      - institution: Lovely Professional University
+        location: Punjab, India
+        area: Computer Science
+        studyType: Bachelor of Technology
+        end_date: 2023
+        score: "7.93/10.0"
+
+    Experience:
+      - company: Indian Institute of Science (Vivitsu Lab)
+        position: Research Associate (Advisor - Prof. Gugan Thoppe)
+        location: Bengaluru, India
+        start_date: 2026-03
+        end_date: 2026-07
+        highlights:
+          - Analyzed Reliable Policy Iteration and its Bellman-feasibility and monotonic-improvement properties for mitigating instability in approximate policy iteration with linear function approximation.
+          - Built a scalable sampled RPI method using Kaczmarz–Motzkin projections and benchmarked it against AMPI-Q, CPI, TRPO and SAC on control environments such as inventory control and Tetris.
+
+      - company: Stochastic Control Lab, IIIT Bangalore
+        position: Research Scholar (Advisor - Prof. Raghuram Bharadwaj Diddigi)
+        location: Bengaluru, India
+        start_date: 2023-08
+        end_date: 2026-07
+        highlights:
+          - Developed a Gaussian Mixture Q-Network for uncertainty-aware value estimation, with stable responsibility computations and mixture-weight updates, evaluated against DQN and MoE-based baselines.
+          - Proposed CLIP-RL, a transfer framework that aligns natural-language instructions with RL policy weights in a shared embedding space to retrieve and transfer expert behaviours.
+
+      - company: IBM Research India
+        position: AI Research Intern
+        location: Bengaluru, India
+        start_date: 2025-05
+        end_date: 2025-07
+        highlights:
+          - Built an offline-RL pipeline that generates diverse, multimodal trajectories via return-based binning and rejection sampling, for single- and multi-objective rewards in D4RL format.
+          - Trained and evaluated Decision Transformer and Elastic Decision Transformer models, including multi-objective extensions and Pareto-front analysis.
+
+      - company: Centre for Artificial Intelligence and Robotics (CAIR), DRDO
+        position: Research Intern
+        location: Bengaluru, India
+        start_date: 2022-09
+        end_date: 2023-05
+        highlights:
+          - Built a benchmark of drone imagery converted from day to low light for evaluating object detection and tracking.
+          - Integrated the SiamRPN++ tracker with TLD and low-light enhancement models such as EnlightenGAN to improve tracking under extreme illumination.
+
+      - company: IIIT Bangalore
+        position: Teaching Assistant, Machine Learning and Reinforcement Learning
+        location: Bengaluru, India
+        start_date: 2024-08
+        end_date: 2025-05
+
+    Awards:
+      - title: Best Paper Runner-up, IBM Research Symposium
+        date: 2025
+        awarder: IBM Research
+
+    Skills:
+      - name: Languages
+        icon: fa-solid fa-code
+        keywords: "Python, C"
+
+      - name: Technologies
+        icon: fa-solid fa-gear
+        keywords: "PyTorch, Gymnasium, Git, OpenCV"
