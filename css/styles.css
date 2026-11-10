@@ -1,0 +1,136 @@
+body {color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  line-height: 2;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #66BFBF;
+  margin: 50px auto;
+}
+
+h3 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #11999E;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 6%;
+ margin:80px auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top-container {
+  background-color: #edf7fa;
+  position: relative;
+  padding-top: 100px;
+  margin: 0 auto 50px auto;
+}
+.rock{
+  width: 14%;
+  position: absolute;
+  left:100px;
+  top: 200px;
+}
+.spac{
+  border-radius: 100%;
+  width: 14%;
+  position: absolute;
+  right:100px;
+  top: 200px;
+}
+
+.middle-container {
+margin: 80px 0;
+}
+
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.intro{
+  width: 30%;
+  margin:20px auto;
+}
+.hobbi-row{
+  width: 50%;
+  margin: 70px auto 220px auto;
+  text-align: left;
+}
+
+.circular {
+  border-radius: 100%;
+  width:20%;
+}
+
+.names {
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+.bookz{
+  border-radius:10%;
+  background-color: #e1f2fb;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.dragonz{
+  border-radius: 10%;
+  background-color: #e1f2fb;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: .75rem;
+  padding: 20px 0;
+}
+.endd{
+  width: 41%;
+  margin: 40px auto;
+}
+.btn {
+	box-shadow: 0 0 0 2px #9fb4f2;
+	background:linear-gradient(to bottom, #2bc4ad 5%, #30e3cb 100%);
+	background-color:#2bc4ad;
+	border-radius:15px;
+	border:1px solid #30e3cb;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size:19px;
+	font-weight:bold;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
