@@ -22,8 +22,10 @@ announcements:
 latest_posts:
   enabled: false
 ---
-I work on reinforcement learning. I did my MS by Research in Data Science and AI at IIIT Bangalore in the Stochastic Control Lab, advised by Prof. Raghuram Bharadwaj Diddigi. After that I was a Research Associate in Prof. Gugan Thoppe's Vivitsu Lab at the Indian Institute of Science, working on Reliable Policy Iteration. Before that I interned at IBM Research on Decision Transformers, and at CAIR, DRDO on object tracking in low-light drone imagery.
+Hi! I'm Chainesh Gautam, currently a Research Assistant at IIIT Bangalore, working with [Prof. Raghuram Bharadwaj Diddigi](https://scholar.google.com/citations?user=nx4NlpsAAAAJ) on (MA)RL, where I also completed my MS by Research.
 
-I am most interested in offline RL, approximate dynamic programming, and transferring learned behaviour to new tasks. Autonomous driving is what first drew me to RL.
+During my Master's, I was a Research Intern at IBM Research, working with [Dr. Chandramouli Kamanchi](https://scholar.google.com/citations?user=1QlrvHkAAAAJ) and [Dr. Pankaj Dayama](https://scholar.google.com/citations?user=dDpul0QAAAAJ). This collaboration later extended to 1.5 years, during which I worked on time-series foundation models and Decision Transformers. I also worked with [Prof. Gugan Thoppe](https://scholar.google.com/citations?user=X5zV3s8AAAAJ) at the Indian Institute of Science (IISc) on scaling reliable policy iteration (RPI). During my undergraduate studies, I interned at the Centre for Artificial Intelligence and Robotics (CAIR), DRDO, working on computer vision for drone detection and tracking.
 
-I have served as a sub-reviewer for AAAI 2027, NeurIPS 2026 and the ICML 2025 MoFA workshop.
+My research interests lie broadly in reinforcement learning, especially in making (MA)RL and offline RL work at scale. I'm particularly interested in how agents can learn from large amounts of existing experience, improve through interaction with other agents, and acquire capabilities that generalize across tasks and environments. I believe understanding these problems is an important step toward building more general-purpose AI systems.
+
+My previous research has explored policy improvement, policy representations and transfer, and the reliability of transformer-based offline RL algorithms.
