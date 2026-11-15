@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg # replace assets/img/prof_pic.jpg with your photo
   image_circular: true
   more_info: >
-    <p>Bengaluru, India</p>
+    <div style="text-align: center;"><p>Bengaluru, India</p></div>
 
 selected_papers: true # papers marked selected={true} in _bibliography/papers.bib
 social: true
