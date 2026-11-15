@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg # replace assets/img/prof_pic.jpg with your photo
   image_circular: true
   more_info: >
-    <div style="text-align: center;"><p>Bengaluru, India</p></div>
+    <div style="text-align: center;"><p>Bangalore, India<br><a href="mailto:chainesh2k@gmail.com">chainesh2k@gmail.com</a></p></div>
 
 selected_papers: true # papers marked selected={true} in _bibliography/papers.bib
 social: true
@@ -27,5 +27,3 @@ I work on reinforcement learning. I did my MS by Research in Data Science and AI
 I am most interested in offline RL, approximate dynamic programming, and transferring learned behaviour to new tasks. Autonomous driving is what first drew me to RL.
 
 I have served as a sub-reviewer for AAAI 2027, NeurIPS 2026 and the ICML 2025 MoFA workshop.
-
-**I am applying to PhD programs starting in 2027.**
