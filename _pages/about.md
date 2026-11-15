@@ -22,10 +22,7 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
 I work on reinforcement learning. I did my MS by Research in Data Science and AI at IIIT Bangalore in the Stochastic Control Lab, advised by Prof. Raghuram Bharadwaj Diddigi. After that I was a Research Associate in Prof. Gugan Thoppe's Vivitsu Lab at the Indian Institute of Science, working on Reliable Policy Iteration. Before that I interned at IBM Research on Decision Transformers, and at CAIR, DRDO on object tracking in low-light drone imagery.
-
-Most of my work asks one question: when does a signal an agent relies on stop tracking the thing it is supposed to represent? A return-conditioned transformer keeps trusting its context after the rollout has drifted away from the data. A Q-network trained with squared error treats a multimodal return as a single number. A critic can improve while the policy does not. I try to find where these proxies break, explain why, and build methods that check the signal before acting on it.
 
 I am most interested in offline RL, approximate dynamic programming, and transferring learned behaviour to new tasks. Autonomous driving is what first drew me to RL.
 
